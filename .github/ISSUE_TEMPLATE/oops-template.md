@@ -12,15 +12,15 @@ On January 7, 2022 I noticed ....
 
 ### Details
 ---
-#####Homeowner Concerns:
+##### Homeowner Concerns:
 1.
 2.
 
-#####Proposed Remediation:
+##### Proposed Remediation:
 Cost offset
 
-#####Expected Cost Burden:  
+##### Expected Cost Burden:  
 X% (Builder)   Y% (Homeowner)
 
-#####Status:
-#####Supporting Images (If Any):
+##### Status:
+##### Supporting Images (If Any):
